@@ -1,6 +1,6 @@
 <div>
 <a  href="https://Anitaku.site" >
-          <strong>Anitaku</strong> </a>
+          <h1>Anitaku</h1> </a>
 </div>
 
 <div class="bg-secondary p-4 p-md-5" bis_skin_checked="1">
