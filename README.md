@@ -1,5 +1,5 @@
-<a href="https://example.com/anitaku" class="btn btn-lg btn-radius btn-primary">
-            <h1>Anitaku</h1></a>
+<a href="https://Anitaku.site" <h1>Anitaku</h1>>
+           </a>
 
 <div class="bg-secondary p-4 p-md-5" bis_skin_checked="1">
 					<p><strong>Anitaku.site</strong> is a free anime website where millions visit to watch anime online.</p>
