@@ -1,7 +1,8 @@
-<a  href="https://Anitaku.site" >
-          <strong>Anitaku</strong> </a>
+
 
 <div class="bg-secondary p-4 p-md-5" bis_skin_checked="1">
+	<a  href="https://Anitaku.site" >
+          <strong>Anitaku</strong> </a>
 					<p><strong>Anitaku.site</strong> is a free anime website where millions visit to watch anime online.</p>
 <p><strong>Anitaku.site</strong> provides users with various genres including Action, Comedy, Demons, Drama, Historical,
 Romance, Samurai, School, Shoujo Ai, Shounen Supernatural, etc. This is the perfect place to
