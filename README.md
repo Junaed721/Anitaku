@@ -5,7 +5,7 @@
 
 <div class="bg-secondary p-4 p-md-5" bis_skin_checked="1">
 	
-					Anitaku.site</strong> is a free anime website where millions visit to watch anime online.
+					Anitaku.site is a free anime website where millions visit to watch anime online.
 <p><strong>Anitaku.site</strong> provides users with various genres including Action, Comedy, Demons, Drama, Historical,
 Romance, Samurai, School, Shoujo Ai, Shounen Supernatural, etc. This is the perfect place to
 expand the imagination of children under 12 years old as well as spread beautiful images of
